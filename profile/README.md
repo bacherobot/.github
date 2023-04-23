@@ -8,7 +8,7 @@ Bachero est un robot Discord dans le but de remplacer tous ceux qui existent dé
 
 👉 Modulaire — avec l'ajout de [modules complémentaires](https://bachero.johanstick.me/docs/preinstalled)
 
-👉 Complet — tout ce que les autres bots possède, réunis dans un seul bot, et en mieux
+👉 Complet — tout ce que les autres bots possèdent, réunis dans un seul bot, et en mieux
 
 👉 Personnalisable — Bachero n'est pas Bachero, il est comme vous
 
@@ -16,7 +16,7 @@ Bachero est un robot Discord dans le but de remplacer tous ceux qui existent dé
 
 ### Réinviter la roue peut être une bonne idée
 
-Beaucoup (sûrement plus de la moitié des bots encore actifs) proposent aux utilisateurs quelques commandes que la plupart des autres robots possèdent déjà, depuis plusieurs années pour certains, mais aucun n'arrive réellement à les concurrencer en aportant de réelles avancées.
+Beaucoup (sûrement plus de la moitié des bots encore actifs) proposent aux utilisateurs quelques commandes que la plupart des autres robots possèdent déjà, depuis plusieurs années pour certains, mais aucun n'arrive réellement à les concurrencer en apportant de réelles avancées.
 
 Bachero est là pour ça, en tentant de régler la plupart des problèmes existants et en apportant de meilleures solutions que les autres :
 
@@ -26,7 +26,7 @@ Bachero est là pour ça, en tentant de régler la plupart des problèmes exista
 
 ### Extensible
 
-Si vous hébergez le robot vous-même, vous avez la possibilité d'installer des modules. Voyez-ça comme des compléments à Bachero, permettant d'ajouter des fonctionnalités telles que des commandes.
+Si vous hébergez le robot vous-même, vous avez la possibilité d'installer des modules. Voyez ça comme des compléments à Bachero, permettant d'ajouter des fonctionnalités telles que des commandes.
 
 Ces modules peuvent être créés par n'importe qui ayant quelques connaissances avec la création de bot Discord, mais vous pouvez aussi installer des modules faits par la communauté.
 
