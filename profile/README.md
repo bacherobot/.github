@@ -1,3 +1,5 @@
+###### English version [herehttps://github.com/bacherobot/.github/blob/main/profile/README-en.md).
+
 # Bachero
 
 Bachero est un robot Discord dans le but de remplacer tous ceux qui existent déjà, en apportant des fonctionnalités que personne d'autre ne possède, et en réglant beaucoup de problématiques.
