@@ -6,7 +6,7 @@ Bachero est un robot Discord dans le but de remplacer tous ceux qui existent dé
 
 👉 Libre — open source, gratuit et self hostable facilement
 
-👉 Modulaire — avec l'ajout de [modules complémentaires](https://bachero.johanstick.me/docs/preinstalled)
+👉 Modulaire — avec l'ajout de [modules complémentaires](https://bachero.johanstick.fr/docs/preinstalled)
 
 👉 Complet — tout ce que les autres bots possèdent, réunis dans un seul bot, et en mieux
 
