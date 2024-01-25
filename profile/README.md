@@ -33,8 +33,8 @@ Ces modules peuvent être créés par n'importe qui ayant quelques connaissances
 ### Liens
 
 * [Ajouter à son serveur](https://discord.com/api/oauth2/authorize?client_id=1004446432863981671&permissions=8&scope=bot%20applications.commands)  
-* [Blog](https://bachero.johanstick.me/blog)  
-* [Documentation](https://bachero.johanstick.me)  
-  * [Héberger soi-même](https://bachero.johanstick.me/docs/intro#h%C3%A9berger-soi-m%C3%AAme)  
-  * [Modules préinstallés](https://bachero.johanstick.me/docs/preinstalled)  
-  * [Contribution](https://bachero.johanstick.me/docs/contribute)  
+* [Blog](https://bachero.johanstick.fr/blog)  
+* [Documentation](https://bachero.johanstick.fr)  
+  * [Héberger soi-même](https://bachero.johanstick.fr/docs/intro#h%C3%A9berger-soi-m%C3%AAme)  
+  * [Modules préinstallés](https://bachero.johanstick.fr/docs/preinstalled)  
+  * [Contribution](https://bachero.johanstick.fr/docs/contribute)  
